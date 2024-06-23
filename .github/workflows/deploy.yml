@@ -30,7 +30,7 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npm run build -- --base /Slidev/Online-Algo/
+        run: npx slidev build --base /Slidev/Online-Algo/
 
       - uses: actions/configure-pages@v4
 
