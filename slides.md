@@ -1,6 +1,6 @@
 ---
 theme: default
-background: /card762_after.png
+background: "/card762_after.png"
 title: Online Algo
 class: text-center
 highlighter: shiki
